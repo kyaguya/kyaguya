@@ -20,4 +20,3 @@ I'm a Cyber Security, who's currently pursuing a Full-Stack development to creat
 
 ---
 
-<script src="https://tryhackme.com/badge/1479430"></script>
