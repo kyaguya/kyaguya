@@ -10,7 +10,7 @@ I'm a Cyber Security, who's currently pursuing a Full-Stack development to creat
    <img src="https://lanyard.cnrad.dev/api/800305845795291156" alt="Discord Presence" align="right">
 </a>
 
-- 🖥️ Front-end:
+- 🖥️ Front-End:
 
   - In the past: HTML/CSS/JS
 
