@@ -18,7 +18,6 @@ I'm a Cyber Security, who's currently pursuing a Full-Stack development to creat
 - 🛠 Scripting:
 
   - Python
-  - GO (Golang)
 
 ---
 
