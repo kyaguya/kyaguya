@@ -1,7 +1,7 @@
 # Hi, Im Kyaguya/Takayuki 👋
 ### You can call me taka
 
-I'm a Cyber Security, who's currently pursuing a Full-Stack development to create stunning user experiences
+I'm a Cyber Security junior
 
 ---
 
