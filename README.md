@@ -71,7 +71,3 @@ Some things might be simple, unfinished, or a little messy. I'm here to learn, i
 *Not an expert, just someone who enjoys figuring things out.*
 
 </div>
-
-<a href="https://discord.com/users/800305845795291156" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/800305845795291156?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
-</a>
