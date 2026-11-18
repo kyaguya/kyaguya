@@ -23,7 +23,7 @@
 - 🐧 Getting more familiar with Linux
 - 💡 Curious about AI and other cool tech
 
-I like learning by trying things myself. Sometimes it works, sometimes it doesn't — that's part of the fun.
+I like learning by trying things myself. Sometimes it works, sometimes it doesn't. that's part of the fun.
 
 ## 🛠️ Things I'm learning
 
